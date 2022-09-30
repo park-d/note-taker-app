@@ -6,7 +6,7 @@ htmlRoute.get('/', (req, res) =>
     res.sendFile(path.join(__dirname, '../public/index.html'))
 );
 
-//route to notes.html
+//GET route to notes.html
 htmlRoute.get("/notes", (req, res) => {
     res.sendFile(path.join(__dirname, "../public/notes.html"));
 });
