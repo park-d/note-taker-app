@@ -2,7 +2,7 @@
 [![This repository is Unlicensed and free to use.](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 ## Description
-A note taker application that can be used to write and save snotes. The application uses an Express.js back-end, and saves and retrieves note data from a JSON file.
+A note taker application that can be used to write and save notes. The application uses an Express.js back-end, and saves and retrieves note data from a JSON file.
   
 ## Table of Contents
 - [Installation](#installation)
